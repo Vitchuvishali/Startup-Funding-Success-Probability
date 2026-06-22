@@ -163,8 +163,4 @@ pip install -r requirements.txt
 jupyter notebook notebook/analysis.ipynb
 ```
 
-## Author
 
-*(Your Name)*  
-AI & ML Internship Program — Task 4  
-June 2026
