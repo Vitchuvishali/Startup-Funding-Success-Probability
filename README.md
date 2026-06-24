@@ -162,5 +162,7 @@ cd Startup_Funding_Success_Probability
 pip install -r requirements.txt
 jupyter notebook notebook/analysis.ipynb
 ```
-
+NAME : VISHALI V 
+IV-YEAR BE.CSE
+ADHTIPARASAKTHI COLLEGE OF ENGINEERING
 
