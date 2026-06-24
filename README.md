@@ -164,7 +164,7 @@ jupyter notebook notebook/analysis.ipynb
 ```
 ## Author
 
-VISHALI.V 
+VISHALI.V
 AI & ML Internship Program — Task 4  
 June 2026
 
