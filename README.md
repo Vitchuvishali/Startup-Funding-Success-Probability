@@ -135,6 +135,12 @@ As a Data Analyst working for a startup accelerator program, this project invest
 
 ---
 
+## 8. Conclusion
+
+-This project successfully analyzed the Indian Startup Funding dataset using Python and statistical techniques. Data cleaning, visualization, probability analysis, and hypothesis testing helped identify the key factors influencing startup funding success. The results show that founder experience, revenue, and team size play an important role in attracting investments. Overall, this project provides useful insights for investors and entrepreneurs and demonstrates the effective use of Python for data analysis.
+
+---
+
 ## Project Structure
 
 ```
